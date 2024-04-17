@@ -3,7 +3,7 @@
 ## Team Members: Nothern, Jaxon Zeng, Kingsley Situ, Mengjun Wen
 
 [Slides](https://docs.google.com/presentation/d/1X5SlEDD1F8eniP11FfugwEpqMEKxxSEp4zIRCuGGUps/edit?usp=sharing)
-[Vedio]([https://docs.google.com/presentation/d/1X5SlEDD1F8eniP11FfugwEpqMEKxxSEp4zIRCuGGUps/edit?usp=sharing](https://youtu.be/epSuXpPwa8A?si=vRE5yO4aHpncwrt3))
+[Vedio](https://youtu.be/epSuXpPwa8A?si=vRE5yO4aHpncwrt3)
 
 For this milestone, we’ve done a lot of work and made great progress on the final project. From our final project team formed to the date of the milestone, we had several meetings and decided that the goal of our project was to mimic several weather/natural phenomena in Genshin Impact including fog, lunar eclipse/blood moon, lighting, and perhaps raining or thunderstorm.
 
