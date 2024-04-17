@@ -1,4 +1,4 @@
-# Project Goal: Mimic several weather/natural phenomena in Genshin Impact through shaders
+# Mimic several weather/natural phenomena in Genshin Impact through shaders
 
 ## Team Members: Nothern, Jaxon Zeng, Kingsley Situ, Mengjun Wen
 
